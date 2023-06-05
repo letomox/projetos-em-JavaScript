@@ -1,0 +1,53 @@
+body {
+background-color: rgb(1, 15, 10);
+font: normal 15pt arial;
+}
+
+header {
+color: white;
+text-align: center;
+
+}
+section {
+background-color: white;
+border-radius: 10px;
+padding: 15px;
+width: 250px;
+margin: auto;
+box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.479);
+
+}
+footer {
+
+color: white;
+text-align: center;
+font: italic;
+}
+div {
+    text-align: center;
+}
+
+button {
+    height: 2.5em;
+    width: 5em;
+    color: white;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.iniciar-btn{
+    background-color: green;
+
+}
+
+.pausar-btn{
+    background-color: gray;
+
+}
+
+.parar-btn{
+    background-color: red;
+
+}
